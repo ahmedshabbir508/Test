@@ -1,0 +1,7 @@
+git init
+
+add files in folder
+
+git add .
+
+git commit -m "MEssage"
